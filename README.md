@@ -28,9 +28,6 @@ Run the program
 
 Note: You might have to wait for sometime usually 1-2 minutes for program to start and work properly.
 
-## Video of output
-
-
 
 ## Special help
 You might face issue with webcam not showing or something related to webcam.
