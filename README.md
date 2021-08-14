@@ -18,7 +18,8 @@ Install all the requirements
 `pip install -r requirements.txt`
 
 Note make sure you are giving the correct directory in the terminal.
-e.g 'cd Downloads/Control-volume-with-gestures.git'
+The file is installed in your Local Disk direcetory.
+e.g 'cd C:\Users\<User Name>\Control-volume-with-gestures'
 
 Step 3:
 Run the program
